@@ -3,7 +3,7 @@
   justify-content: center;
   margin: 50px auto;
   border: 1px solid black;
-  width: 50%;
+  width: 68%;
   height: 300px;
   border-radius: 8px;
   align-items: center;
@@ -13,12 +13,12 @@
   display: flex;
   flex-direction: column;
   font-size: 16px;
-  width: 300px;
+  width: 400px;
   padding-left: 40px;
  
 }
 .form-heading-box {
-  border-right: 2px solid black;
+  border-right: 1px solid black;
   text-align: center;
   height: 200px;
   display: flex;
@@ -37,6 +37,24 @@
     cursor: pointer;
 }
 input[type=text], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+input[type=email] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+input[type=tel] {
   width: 100%;
   padding: 12px 20px;
   margin: 8px 0;
