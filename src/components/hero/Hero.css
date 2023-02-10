@@ -1,0 +1,13 @@
+.hero{
+  background-image: url("../images/students_banner.jpg");
+  min-height: 80vh;
+  background-repeat: none;
+  background-size: cover;
+  
+}
+.title{
+padding: 0px;
+  margin: 0px;
+}
+
+
