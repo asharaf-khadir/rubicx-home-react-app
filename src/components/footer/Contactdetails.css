@@ -1,0 +1,38 @@
+.footerbar{
+    display: flex;
+    justify-content: center;
+}
+.footer-about{
+    border: 2px solid white;
+    width: 60%;
+}
+.footer-menu{
+    border: 2px solid white;
+    margin: 0px 20px;
+}
+.footer-learn{
+    border: 2px solid white;
+    margin: 0px 20px;
+    
+}
+.footer-address{
+    border: 2px solid white;
+}
+.footer-title{
+    font-size: 12px;
+}
+.footer-menu-item{
+    font-size: 12px;
+}
+.footer-learn-item{
+    font-size: 12px;
+}
+.footer-menu-item{
+    font-size: 12px;
+}
+.footer-address-item{
+    font-size: 12px;
+}
+.footer-about-item{
+    font-size: 12px;
+}

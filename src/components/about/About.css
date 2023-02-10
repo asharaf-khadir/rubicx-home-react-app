@@ -20,9 +20,16 @@
 }
 .wwd-description {
   margin: auto;
-  width: 58%;
+  width: 64%;
   padding: 10px;
+  color: white;
+  
 }
-.about-image{
-  background-image: url("../images/meeting.png");
+
+
+.about-image {
+  background-image: url("../images/meeting_people.png");
+  width: 350px;
+  background-repeat: no-repeat;
 }
+

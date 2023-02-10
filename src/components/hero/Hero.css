@@ -1,13 +1,49 @@
-.hero{
-  background-image: url("../images/students_banner.jpg");
+.hero {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)) ,url("../images/students_banner.jpg");
   min-height: 80vh;
   background-repeat: none;
   background-size: cover;
-  
 }
-.title{
-padding: 0px;
-  margin: 0px;
+.title {
+  position: absolute;
+  left: 22%;
+  top: 25%;
+  color: white;
+  font-size: 80px;
+}
+.title-one {
+  position: absolute;
+  left: 20%;
+  top: 44%;
+  color: white;
+  font-size: 25px;
+}
+.title-two {
+  position: absolute;
+  left: 25%;
+  top: 40%;
+  color: white;
+  font-size: 50px;
 }
 
-
+.hero-discription {
+  position: absolute;
+  left: 20%;
+  top: 60%;
+  color: white;
+  font-size: 18px;
+}
+.hero-discription-one {
+  position: absolute;
+  left: 20%;
+  top: 65%;
+  color: white;
+  font-size: 18px;
+}
+.hero-discription-two {
+  position: absolute;
+  left: 20%;
+  top: 70%;
+  color: white;
+  font-size: 18px;
+}
