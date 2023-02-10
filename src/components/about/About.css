@@ -1,7 +1,7 @@
 .about-container {
   display: flex;
   justify-content: center;
-  margin: 15px 0px;
+  margin: 50px 0px;
 }
 .about-description {
   width: 20%;
@@ -11,15 +11,18 @@
 }
 .about-image {
   width: 20%;
-  border: 5px solid;
+  height: auto;
   text-align: center;
-  margin: 0px 0px 0px 15px;
+  margin: 15px 0px 0px 15px;
 }
 .wwd {
-  background-color: blueviolet;
+  background-color: #ad2672;
 }
 .wwd-description {
   margin: auto;
   width: 58%;
   padding: 10px;
+}
+.about-image{
+  background-image: url("../images/meeting.png");
 }

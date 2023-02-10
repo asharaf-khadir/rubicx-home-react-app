@@ -26,7 +26,6 @@ export default function About() {
           </div>
         </div>
         <div className="about-image">
-          <img src="" alt="Meeting image"></img>
         </div>
       </div>
       <div className="wwd">

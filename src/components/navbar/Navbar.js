@@ -1,11 +1,11 @@
 import "./Navbar.css";
-
+import clogo from "../images/rubixe-logo.png"
 export default function Navbar() {
   return (
     <div className="navbar">
-      <a href="#" className="navbar-logo">
-        <img src="" alt="RUBIXE LOGO"></img>
-      </a>
+      <div className="navbar-logo">
+        <img src={clogo} alt="RUBIXE LOGO" width={"90px"} height={"30px"}></img>
+      </div>
       <ul className="navbar-links">
         <li className="navbar-item">
           <a href="#">HOME</a>
