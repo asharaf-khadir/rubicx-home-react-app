@@ -1,0 +1,25 @@
+.about-container {
+  display: flex;
+  justify-content: center;
+  margin: 15px 0px;
+}
+.about-description {
+  width: 20%;
+  border: 5px solid;
+  text-align: center;
+  padding: 0px 4px 0px 0px;
+}
+.about-image {
+  width: 20%;
+  border: 5px solid;
+  text-align: center;
+  margin: 0px 0px 0px 15px;
+}
+.wwd {
+  background-color: blueviolet;
+}
+.wwd-description {
+  margin: auto;
+  width: 58%;
+  padding: 10px;
+}
