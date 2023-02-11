@@ -6,7 +6,7 @@
 .about-description {
   width: 20%;
   border: 5px solid;
-  text-align: center;
+  /* text-align: center; */
   padding: 0px 4px 0px 0px;
 }
 .about-image {
@@ -31,5 +31,22 @@
   background-image: url("../images/meeting_people.png");
   width: 350px;
   background-repeat: no-repeat;
+  
 }
-
+.overlaybox{
+  width: 250px;
+  height: 100px;
+  background-color: #1b5b38;
+  position: relative;
+  top: 70%;
+  left: 30%;
+  opacity: 0.8;
+}
+.overlaybox-one{
+  width: 180px;
+  height: 8px;
+  background-color: #ad2675;
+  position: relative;
+  top: -55%;
+  left: 0%;
+}

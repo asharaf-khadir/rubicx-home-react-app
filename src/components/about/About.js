@@ -13,7 +13,7 @@ export default function About() {
               Machine Learning, Robotic Process Automation (RPA),
               <br /> BlockChain, and Internet of Things (IoT).
             </p>
-            
+
             <p className="paragraph-two">
               Rubixe<sup>TM</sup> mission is to enable businesses to leverage
               the full potential of disruptive
@@ -27,6 +27,8 @@ export default function About() {
           </div>
         </div>
         <div className="about-image">
+          <div className="overlaybox"></div>
+          <div className="overlaybox-one"></div>
         </div>
       </div>
       <div className="wwd">

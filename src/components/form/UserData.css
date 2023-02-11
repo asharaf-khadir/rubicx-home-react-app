@@ -44,6 +44,7 @@ input[type=text], select {
   border: 1px solid #ccc;
   border-radius: 4px;
   box-sizing: border-box;
+  font-size: 14px;
 }
 input[type=email] {
   width: 100%;
@@ -53,6 +54,7 @@ input[type=email] {
   border: 1px solid #ccc;
   border-radius: 4px;
   box-sizing: border-box;
+  font-size: 14px;
 }
 input[type=tel] {
   width: 100%;
@@ -62,4 +64,9 @@ input[type=tel] {
   border: 1px solid #ccc;
   border-radius: 4px;
   box-sizing: border-box;
+  font-size: 14px;
+}
+
+.form-submitted-text{
+  margin: 50px;
 }
