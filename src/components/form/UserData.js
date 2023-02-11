@@ -2,8 +2,8 @@ import "./UserData.css";
 import React, { useState } from "react";
 
 export default function UserData() {
-  const [userName, setUserName] = React.useState("");
-  const [formSubmission, setFormSubmission] = React.useState(false);
+  const [userName, setUserName] = useState("");
+  const [formSubmission, setFormSubmission] = useState(false);
   const UsernameHandler = (event) => {
     setUserName(event.target.value);
   };
