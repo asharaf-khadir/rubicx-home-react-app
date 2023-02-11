@@ -14,6 +14,11 @@ export default function Services() {
         </div>
         <div className="cards">
           <div className="cards-up-one">
+            <div className="number-circle">
+              <div className="number-cirlce-no">
+                <h4 className="numbers">01</h4>
+              </div>
+            </div>
             <img src={aicomputer} alt="AI pic"></img>
             <p>
               Introducing AI to
@@ -33,8 +38,18 @@ export default function Services() {
               around it
             </p>
             <img src={aichip} alt="AI pic"></img>
+            <div className="circle-number-down1">
+              <div className="cirlce-numberd1">
+                <h4>02</h4>
+              </div>
+            </div>
           </div>
           <div className="cards-up-two">
+            <div className="number-circle1">
+              <div className="number-cirlce-no1">
+                <h4 className="numbers1">03</h4>
+              </div>
+            </div>
             <img src={aibrain} alt="AI pic"></img>
             <p>
               Acquire
@@ -54,13 +69,24 @@ export default function Services() {
               diverse topics
             </p>
             <img src={aimen} alt="AI pic"></img>
+            <div className="circle-number-down2">
+              <div className="cirlce-numberd2">
+                <p>04</p>
+              </div>
+            </div>
           </div>
           <div className="cards-up-three">
+            <div className="number-circle3">
+              <div className="number-cirlce-no3">
+                <h4 className="numbers3">05</h4>
+              </div>
+            </div>
             <img src={aiteach} alt="AI pic"></img>
             <p>
               Train the teachers
               <br />
-            programme</p>
+              programme
+            </p>
           </div>
         </div>
         {/* <p className="card-title">TECH FOR TEENS - A RUBIXE &reg; INITATIVE</p>

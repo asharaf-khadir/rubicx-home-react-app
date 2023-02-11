@@ -53,3 +53,79 @@
   color: white;
   font-size: 24px;
 }
+.tlogobox{
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  background-color: red;
+}
+.box1{
+  top: 34.6%;
+  left: 24%;
+  background-color: yellow;
+}
+.box2{
+  top: 32%;
+  left: 24%;
+  background-color: pink;
+
+}
+.box3{
+  top: 28.8%;
+  left: 15.8%;
+  width: 120px;
+  background-color: orange;
+  display: flex;
+}
+.box4{
+  top: 33.5%;
+  left: 13.9%;
+  height: 40px;
+}
+.box6{
+  top: 38.9%;
+  left: 13.9%;
+  width: 40px;
+  background-color: orange;
+  display: flex;
+}
+.box7{
+  top: 38.9%;
+  left: 16.9%;
+  height: 60px;
+  background-color: violet;
+}
+.box8{
+  top: 46.9%;
+  left: 16.9%;
+  width: 80px;
+  background-color: magenta;
+  display: flex;
+}
+.box9{
+  top: 29%;
+  left: 13.7%;
+  background-color: violet;
+}
+.box10{
+  top: 24%;
+  left: 14.7%;
+  background-color: violet;
+}
+.box11{
+  top: 26.8%;
+  left: 12.7%;
+  width: 12px;
+  height: 12px;
+  background-color: violet;
+}
+.box-border{
+  width: 12px;
+  height: 19px;
+  border: 1px solid white;
+}
+.box-border1{
+  width: 19px;
+  height: 12px;
+  border: 1px solid white;
+}

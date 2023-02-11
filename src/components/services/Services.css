@@ -99,10 +99,7 @@
   align-items: center;
   
 }
-.cards-down-one > p{
-  text-align: center;
-  font-size: 18px;
-}
+
 .cards-down-one > img {
   width: 60px;
   height: 60px;
@@ -121,18 +118,146 @@
   align-items: center;
   
 }
-.cards-down-two > p{
-  text-align: center;
-  font-size: 18px;
-}
+
 .cards-down-two > img {
   width: 60px;
   height: 60px;
   margin-top: 20px;
 }
+.number-circle{
+  width: 50px;
+  height: 50px;
+  background-color: #e3dee4;
+  position: relative;
+  top: -27%;
+  border-radius: 50px;
+  
+}
+.number-circle > div{
+  text-align:center;
+  
+  position: relative;
+  top: -55%;
+  left: 2%;
+}
+.numbers{
+  font-weight: 800px;
+  font-size: 30px;
+  color: #1d2d60;
+}
 
+/* hello */
+.number-circle1{
+  width: 50px;
+  height: 50px;
+  background-color: #e3dee4;
+  position: relative;
+  top: -23%;
+  border-radius: 50px;
+  
+}
+.number-circle1 > div{
+  text-align:center;
+  
+  position: relative;
+  top: -55%;
+  left: 2%;
+}
+.numbers1{
+  font-weight: 800px;
+  font-size: 30px;
+  color: #e35e13;
+}
+/* hello */
+.number-circle3{
+  width: 50px;
+  height: 50px;
+  background-color: #e3dee4;
+  position: relative;
+  top: -31%;
+  border-radius: 50px;
+  
+}
+.number-circle3 > div{
+  text-align:center;
+  position: relative;
+  top: -55%;
+  left: 2%;
+}
+.numbers3{
+  font-weight: 800px;
+  font-size: 30px;
+  color: #b77d33;
+}
+/* just comment */
+.circle-number-down1 > div{
+  text-align:center;
+  
+  position: relative;
+  top: 120%;
+  left: 2%;
+}
+.numberd1{
+  font-weight: 800px;
+  font-size: 30px;
+  color: #1d2d60;
+}
+.circle-number-down2 > div{
+  text-align:center;
+  
+  position: relative;
+  top: 160%;
+  left: 2%;
+}
+.numberd2{
+  font-weight: 800px;
+  font-size: 30px;
+  color: #1d2d60;
+}
+/* 
+just comment */
 
+/* .circle-number-down1{
+  width: 50px;
+  height: 50px;
+  background-color: #9d2157;
+  position: relative;
+  top: 28%;
+  border-radius: 50px;
+} */
+/* .circle-numberd1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  
+} */
+/* .circle-numberd1 > h4{
+  text-align: center;
+  left: 20%;
+} */
 
+/* hello */
+
+/* .circle-number-down2{
+  width: 50px;
+  height: 50px;
+  background-color: #195b37;
+  position: relative;
+  top: 31%;
+  border-radius: 50px;
+}
+.circle-numberd2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.circle-numberd2 > p{
+  text-align: center;
+  left: 20%;
+  color: #195b37;
+} */
 
 /* .card{
   background-color: #e8eae9;
